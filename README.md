@@ -5,7 +5,7 @@ Rock, paper, and scissors game is a simple fun game in which both the players ha
 
 **Link to project:** https://savicode-rockpaperscissors.netlify.app/
 
-![alt tag](http://placecorgi.com/1200/680)
+![alt tag](https://tinypic.host/images/2022/06/05/Screenshot-60.png)
 
 ## How It's Made:
 The HTML Layout:
