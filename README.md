@@ -5,7 +5,7 @@ Rock, paper, and scissors game is a simple fun game in which both the players ha
 
 **Link to project:** http://recruiters-love-seeing-live-demos.com/
 
-![alt tag](https://ibb.co/b7gx1mG)
+![alt tag](http://placecorgi.com/1200/650)
 
 ## How It's Made:
 The HTML Layout:
