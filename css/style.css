@@ -61,6 +61,7 @@
     border-color: yellow;
     border: none;
     cursor: pointer;
+    font-size: large;
 }
  
 .move{
