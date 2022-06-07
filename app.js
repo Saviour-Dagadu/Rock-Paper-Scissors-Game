@@ -47,7 +47,7 @@ const game = () => {
         player = player.toLowerCase();
         computer = computer.toLowerCase();
         if(player === computer){
-            result.textContent = 'Tie'
+            result.textContent = 'Its a tie'
         }
         else if(player == 'rock'){
             if(computer == 'paper'){

@@ -5,6 +5,9 @@
     margin: 0;
     box-sizing: border-box;
     background: black;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     color: #fff;
 }
 /* To center everything in game */
@@ -17,12 +20,17 @@
     align-items: center;
 }
  
+h2{
+    color: green !important;
+    font-size: 3rem;
+}
 /* Title of the game */
 .title{
     position: absolute;
-    top: 0;
+    top: 50px;
     font-size: 4rem;
     z-index: 2;
+    color: greenyellow;
 }
  
 /* Score Board */
@@ -31,10 +39,11 @@
     width: 30vw;
     justify-content: space-evenly;
     position: absolute;
-    top: 70px;
+    top: 150px;
+    font-size: 2.5rem;
     z-index: 1;
+    background-image: url(https://www.istockphoto.com/photo/stone-black-texture-background-dark-cement-wall-gm1318101781-405336371?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fblack&utm_term=black%3A%3Asearch-explore-top-affiliate-outside-feed-x-v2%3Acontrol);
 }
- 
 /* Score  */
 .p-count,.c-count{
     text-align: center;
@@ -67,6 +76,7 @@
 .move{
     font-size: 2rem;
     font-weight: bold;
+    margin: 100px auto;
 }
  
 /* Reload button style */
@@ -85,7 +95,8 @@
  
 .result{
     margin-top: 20px;
-    font-size: 1.2rem;
+    font-size: 4.2rem;
+    color: lawngreen;
 }
  
 /* Responsive Design */
